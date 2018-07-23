@@ -1,7 +1,7 @@
 $(document).ready(function(){
   $('button#kuiz').click(function(){
-    $('description').hide();
-    $('quest').show();
+    $('#description').hide();
+    $('#quest').show();
   })
   $('a#a1').click(function(){
     $('#q2').show();
