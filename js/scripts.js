@@ -42,6 +42,7 @@ $(document).ready(function(){
   $('a#c1').click(function(){
     $('#q4').show();
     $('#q3').hide();
+
   })
   $('a#c2').click(function(){
     $('#q5').show();
