@@ -1,0 +1,25 @@
+.ttc{
+  color: black;
+}
+.ttc:hover{
+  color: black;
+}
+#quest{
+  display: none;
+}
+#q2 {
+  display: none;
+}
+#q3{
+  display: none;
+}
+#q4{
+  display: none;
+}
+#q5{
+  display: none;
+}
+.one{
+  height: 150px;
+  width: 100%;
+}
