@@ -1,0 +1,26 @@
+.engineering{
+  background-image: url("../images/engineering/ej-yao-194786-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  text-align: center;
+}
+
+.workspace{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#indoor{
+  margin: 30px;
+  height: 400px;
+  width: 500px;
+  border-radius: 20px;
+}
+
+#outdoor{
+  margin: 30px;
+  height: 400px;
+  width: 500px;
+  border-radius: 20px;
+}
