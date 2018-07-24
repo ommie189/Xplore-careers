@@ -6,8 +6,8 @@
   text-align: center;
 }
 
-#workspace{
-background-color: #f7f7f7;
+.workspace{
+background-color: #e9ecef;
 }
 
 .txt{
@@ -15,7 +15,7 @@ background-color: #f7f7f7;
   margin: 30px;
 }
 
-#indoor{
+.clickableimg{
   margin: 30px;
   height: 400px;
   width: 500px;
@@ -23,50 +23,36 @@ background-color: #f7f7f7;
   text-align: center;
 }
 
-#indoor:hover{
+.clickableimg:hover{
   color: blue;
-  opacity: 0.5;
+  opacity: 0.7;
   text-decoration: underline;
-}
-
-#outdoor:hover{
-  color: blue;
-  opacity: 0.5;
-  text-decoration: underline;
-}
-
-#outdoor{
-  margin: 30px;
-  height: 400px;
-  width: 500px;
-  border-radius: 20px;
-  text-align: center;
+  transform: scale(1.09);
 }
 
 #factory-office{
-  background-color: #f7f7f7;
-  margin-left: 30px;
-  margin-right: 30px;
+  background-color: #e9e9ecef;
   display: none;
 }
 
-#fact{
-  margin: 30px;
-  height: 400px;
-  width: 500px;
-  border-radius: 20px;
+.fieldwork{
+  display: none;
+  background-color: #e9e9ecef;
 }
 
-#office{
-  margin: 30px;
-  height: 400px;
-  width: 500px;
-  border-radius: 20px;
+#head1{
+  padding-top: 30px;
+  margin-left: 30px;
 }
 
-#field{
-  margin: 30px;
-  height: 400px;
-  width: 500px;
-  border-radius: 20px;
+.head1{
+  padding-top: 30px;
+  margin-left: 30px;
+}
+
+.answer{
+  background-color: #e9e9ecef;
+  display: none;
+  padding: 40px;
+  text-align: center;
 }
