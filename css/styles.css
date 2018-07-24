@@ -6,9 +6,13 @@
   text-align: center;
 }
 
-.workspace{
-  margin-left: 30px;
-  margin-right: 30px;
+#workspace{
+background-color: #f7f7f7;
+}
+
+.txt{
+  justify-content: center;
+  margin: 30px;
 }
 
 #indoor{
@@ -16,9 +20,51 @@
   height: 400px;
   width: 500px;
   border-radius: 20px;
+  text-align: center;
+}
+
+#indoor:hover{
+  color: blue;
+  opacity: 0.5;
+  text-decoration: underline;
+}
+
+#outdoor:hover{
+  color: blue;
+  opacity: 0.5;
+  text-decoration: underline;
 }
 
 #outdoor{
+  margin: 30px;
+  height: 400px;
+  width: 500px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+#factory-office{
+  background-color: #f7f7f7;
+  margin-left: 30px;
+  margin-right: 30px;
+  display: none;
+}
+
+#fact{
+  margin: 30px;
+  height: 400px;
+  width: 500px;
+  border-radius: 20px;
+}
+
+#office{
+  margin: 30px;
+  height: 400px;
+  width: 500px;
+  border-radius: 20px;
+}
+
+#field{
   margin: 30px;
   height: 400px;
   width: 500px;
