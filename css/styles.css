@@ -5,11 +5,11 @@
   color: black;
 }
 #business{
-  background-color: #e59866;
+  background-color:#e9ecef;
 }
 #quest{
   display: none;
-  background-color: #e59866;
+  background-color:#e9ecef ;
 }
 #somo{
   display: none;
@@ -28,7 +28,40 @@
   display: none;
 }
 #a1{
-  background-color: #ecf0f1;
+  background-color: #ec7063;
+}
+#a2{
+  background-color: #ec7063;
+}
+#b1{
+  background-color: #ec7063;
+}
+#b2{
+  background-color: #ec7063;
+}
+#b3{
+  background-color: #ec7063;
+}
+#b4{
+  background-color: #ec7063;
+}
+#c1{
+  background-color: #ec7063;
+}
+#c2{
+  background-color: #ec7063;
+}
+#problem{
+  background-color: #ec7063;
+}
+#manage{
+  background-color: #ec7063;
+}
+#math{
+  background-color: #ec7063;
+}
+#lingo{
+  background-color: #ec7063;
 }
 .one{
   height: 150px;

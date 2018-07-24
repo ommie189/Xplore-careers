@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $('button#kuiz').click(function(){
-    $('#description').hide();
+    $('#descript').hide();
     $('#quest').show();
   })
   $('a#a1').click(function(){
