@@ -4,11 +4,16 @@
 .ttc:hover{
   color: black;
 }
+#business{
+  background-color: #e59866;
+}
 #quest{
   display: none;
+  background-color: #e59866;
 }
 #somo{
   display: none;
+  text-align: center;
 }
 #q2 {
   display: none;
@@ -21,6 +26,9 @@
 }
 #q5{
   display: none;
+}
+#a1{
+  background-color: #ecf0f1;
 }
 .one{
   height: 150px;
