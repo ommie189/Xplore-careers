@@ -1,4 +1,29 @@
 
+#cardd{
+  margin-left:  25%;
+}
+#row1{
+  margin-top:5%;
+}
+
+#Q2{
+display: none;
+}
+#Q3{
+display: none;
+}
+
+
+#Q4{
+display: none;
+}
+#Q5{
+  display: none
+}
+#Q6{
+  display: none;
+}
+
 .engineering{
   background-image: url("../images/engineering/diego-ph-249471-unsplash.jpg");
   background-size: cover;
@@ -417,5 +442,4 @@ background-color: black;
 .one{
   height: 150px;
   width: 100%;
-
 }
