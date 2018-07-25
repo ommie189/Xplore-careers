@@ -1,4 +1,9 @@
 $(document).ready(function(){
+
+  $(".btn2").click(function(){
+    $("#discipline").slideDown("slow");
+  });
+
   $('button#kuiz').click(function(){
     $('#descript').hide();
     $('#quest').show();
