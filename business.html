@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Business Field</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    <script type="text/javascript" src="js/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="js/scripts.js"></script>
+  </head>
+  <body id="business">
+    <div class="bizna">
+      <h2>welcome to business</h2>
+    </div>
+    <div id="descript">
+      <h3>Business</h3>
+      <p>Business education involves teaching students the fundamentals, theories, and processes of business. It also combines elements of accountancy, finance, marketing, organizational studies, human resource management and economics.
+     </p>
+     <button type="submit" id="kuiz" name="button">Take Quiz</button>
+
+    </div>
+    <div id="quest">
+    <div id="q1">
+      <h5>what is your interest when it comes to business?</h5>
+      <div class="card-deck">
+        <a class="card ttc "id="a1" href="#q2" >
+          <div class="card-body">
+            <p class="card-text">A. general business</p>
+          </div>
+        </a>
+        <a class="card ttc" id="a2" href="#q2">
+          <div class="card-body">
+            <p class="card-text">B. specialised business</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div id="q2">
+      <h5>where do you see yourself working in the future</h5>
+      <div class="card-deck">
+        <a class="card ttc" id="b1" href="#q3">
+          <img class="card-img-top" src="images/business1.jpg" alt="bank">
+          <div class="card-body">
+            <p class="card-text">financial services</p>
+          </div>
+        </a>
+        <a class="card ttc" id="b2" href="#q3">
+          <img class="card-img-top" src="images/business2.jpg" alt="advertising">
+          <div class="card-body">
+            <p class="card-text">advertising</p>
+          </div>
+        </a>
+        <a class="card ttc" id="b3" href="#q3">
+          <img class="card-img-top" src="images/business3.jpg" alt="manage">
+          <div class="card-body">
+            <p class="card-text">general management</p>
+          </div>
+        </a>
+        <a class="card ttc" id="b4" href="#q3">
+          <img class="card-img-top" src="images/business4.jpg" alt="public">
+          <div class="card-body">
+            <p class="card-text">human resource and public relations</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div id="q3">
+      <h5>what kind of person are you</h5>
+      <div class="card-deck">
+        <a class="card ttc" id="c1" href="#q4">
+          <img class="card-img-top one" src="images/business5.jpeg" alt="introvert">
+          <div class="card-body">
+            <p class="card-text">A. introvert</p>
+          </div>
+        </a>
+        <a class="card ttc" id="c2" href="#q5">
+          <img class="card-image-top one" src="images/business6.jpeg" alt="extrovert">
+          <div class="card-body">
+            <p class="card-text">B. extrovert</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div id="q4">
+      <h5>are you good with problem solving or data management </h5>
+      <div class="d-flex justify-content-around" id="choices">
+        <button type="submit" id="problem" name="button">problem solving</button>
+        <button type="submit" id="manage" name="button">data management</button>
+      </div>
+    </div>
+    <div id="q5">
+      <h5>are you good in mathematics or linguistics </h5>
+      <div class="d-flex justify-content-around" id="choices">
+        <button type="submit" id="math" name="button">mathematics</button>
+        <button type="submit" id="lingo" name="button">linguistics</button>
+      </div>
+    </div>
+  </div>
+  <div id="somo">
+    <div id="somo2">
+    <h3>QUIZ SUCCESSFULY COMPLETED!</h3>
+    <h5>Here are the list of courses chosen by students with similar interests as yours:</h5>
+    </div>
+    <ol id="somo1"></ol>
+    <!-- <img src="images/logo.jpg" alt="logo"> -->
+  </div>
+  </body>
+</html>
