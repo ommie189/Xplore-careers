@@ -1,3 +1,4 @@
+
 .navbar {
   overflow: hidden;
   background-color: #ec7063;
@@ -376,4 +377,85 @@ background-color: black;
 }
 #col10{
   margin-top: 2%;
+}
+.ttc{
+  color: black;
+}
+.ttc:hover{
+  color: black;
+}
+.bizna{
+  background-image: url('../images/business8.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: #e9ecef;
+}
+#business{
+  background-color:#e9ecef;
+}
+#quest{
+  display: none;
+  background-color:#e9ecef ;
+}
+#somo{
+  display: none;
+}
+#somo2{
+  text-align: center;
+}
+#q2 {
+  display: none;
+}
+#q3{
+  display: none;
+}
+#q4{
+  display: none;
+}
+#q5{
+  display: none;
+}
+#a1{
+  background-color: #ec7063;
+}
+#a2{
+  background-color: #ec7063;
+}
+#b1{
+  background-color: #ec7063;
+}
+#b2{
+  background-color: #ec7063;
+}
+#b3{
+  background-color: #ec7063;
+}
+#b4{
+  background-color: #ec7063;
+}
+#c1{
+  background-color: #ec7063;
+}
+#c2{
+  background-color: #ec7063;
+}
+#problem{
+  background-color: #ec7063;
+}
+#manage{
+  background-color: #ec7063;
+}
+#math{
+  background-color: #ec7063;
+}
+#lingo{
+  background-color: #ec7063;
+}
+.one{
+  height: 150px;
+  width: 100%;
 }
