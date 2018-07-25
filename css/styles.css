@@ -4,6 +4,16 @@
 .ttc:hover{
   color: black;
 }
+.bizna{
+  background-image: url('../images/business8.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: #e9ecef;
+}
 #business{
   background-color:#e9ecef;
 }
