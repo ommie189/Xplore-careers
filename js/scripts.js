@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $('a#A1').click(function() {
-    $('Q2').show();
-    $('Q1').hide();
+    $('#Q2').show();
+    $('#Q1').hide();
     var list = '<li>' + 'pharmacy' + '</li>'
     $('#list').append(list);
   })
@@ -107,10 +107,9 @@ $(document).ready(function() {
   $('a#D1').click(function() {
     $('#Q5').show();
     $('#Q4').hide();
-    var list = '<li>' + 'Biotechnology' + '</li>'
-    var list = '<li>' + 'Biomedical science' + '</li>'
-    $('#list').append(list);
+     $('#list').append(list);
   })
+
 
   $('a#D2').click(function() {
     $('#Q5').show();
