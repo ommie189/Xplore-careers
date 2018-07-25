@@ -1,0 +1,12 @@
+$(document).ready(function(){
+  $('img#fail').click(function(){
+    $('#four').text('not')
+    console.log('not');
+  })
+})
+$(document).ready(function(){
+  $('img#pass').click(function(){
+    $('#four').text('very')
+    console.log('very');
+  })
+})

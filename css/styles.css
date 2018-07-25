@@ -1,0 +1,93 @@
+.heading{
+  border-style: groove;
+  border-color: #B0B0B0;
+  border-width: thin;
+  margin-top: 50px;
+}
+.page1{
+background-image: url(http://cms.indiaeve.com/images/events/Event249393911Img.jpg);
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+
+body{
+  background-color: #E9ECEF;
+}
+}
+input{
+  margin-top: 100px;
+  border-color: #0CA4AA;
+  border-style: groove;
+  border-width: thin;
+  background: linear-gradient(#17C3CA, #E389B3
+ );
+}
+
+.first{
+  margin-top: 50px;
+}
+
+.adm{
+  margin-left: 170px;
+}
+
+.paint{
+  margin-left: 140px;
+
+}
+
+.friends{
+  margin-left: 100px;
+
+}
+.draw{
+  margin-left: 130px;
+
+}
+
+.text{
+  font-size: 30px;
+  font-family: cursive;
+}
+
+.one:hover{
+  border-color: #F8082D;
+  border-style: groove;
+  border-width:thick;
+}
+.you{
+  font-family: cursive;
+  font-size: 30px;
+  color: white;
+  margin-top: 50px;
+}
+
+.finally{
+  margin-top: 70px;
+  font-family: Coronetscript, cursive;
+  color: orange;
+}
+
+.final{
+  background: linear-gradient(green, gray);
+}
+
+
+
+
+.art{
+  float: left;
+}
+.artr{
+  margin-top: 60px;
+  color: #FFCCFC;
+}
+.dep{
+  float: right;
+}
+.depr{
+  margin-top: 60px;
+  color: #FFCCFC;
+  float: right;
+}
