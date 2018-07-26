@@ -1,12 +1,15 @@
-
+ /* css start */
 .heading{
-  border-style: groove;
-  border-color: #B0B0B0;
-  border-width: thin;
-  margin-top: 50px;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url("../images/arts/artimage2.jpeg");
+  padding-top: 10%;
+
 }
 .page1{
-background-image: url(http://cms.indiaeve.com/images/events/Event249393911Img.jpg);
+background-image: url("../images");
 background-repeat:no-repeat;
 background-size: cover;
 }
@@ -24,6 +27,13 @@ input{
   border-width: thin;
   background: linear-gradient(#17C3CA, #E389B3
  );
+}
+.cap{
+  font-size: 30px;
+  color: #ec7063;
+}
+#rowq1{
+  margin-top: 5%;
 }
 
 .first{
@@ -66,7 +76,7 @@ input{
 .you{
   font-family: cursive;
   font-size: 30px;
-  color: white;
+
   margin-top: 50px;
 }
 
@@ -129,7 +139,7 @@ display: none;
 #Q6{
   display: none;
 }
-
+/* end of arts css */
 /* engineering css */
 
 .engineering{
@@ -238,14 +248,16 @@ background-color: #e9ecef;
 
 .navbar a {
   float: left;
-  border-right: 1px solid #bbb;
+
   display: block;
   color: grey;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-
+.navtext{
+  font-size: 35px;
+}
 
 
 .navbar a:hover {
@@ -267,7 +279,10 @@ h1 {
   background-size: 100%;
   background-image: url("../images/landingpage/c22.jpeg");
 }
-
+#logo{
+  height: 50px;
+  width: 50px;
+}
 
 
 .active {
@@ -519,7 +534,8 @@ background-color: black;
   background-color: #ec7063;
   background-repeat: no-repeat;
   background-position: center;
-  height: 200px;
+  height: 150px;
+
 
   text-align: center;
   padding-top: 20px;
