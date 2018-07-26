@@ -1,49 +1,57 @@
-#cardd{
-  margin-left:  25%;
-}
-#row1{
-  margin-top:5%;
-}
-#Q1{
-  display:none;
+#cardd {
+  margin-left: 25%;
 }
 
-#Q2{
-display: none;
-}
-#Q3{
-display: none;
+#row1 {
+  margin-top: 5%;
 }
 
-
-#Q4{
-display: none;
-}
-#Q5{
-  display: none
-}
-#Q6{
+#Q1 {
   display: none;
 }
 
+#Q2 {
+  display: none;
+}
 
-#h1{
+#Q3 {
+  display: none;
+}
+
+#Q4 {
+  display: none;
+}
+
+#Q5 {
+  display: none
+}
+
+#Q6 {
+  display: none;
+}
+
+#h1 {
   text-align: center;
   font-size: 80px;
 }
-.jumbotron{
+
+.jumbotron {
   background-image: url('../images/sciences/jumbotron.jpg');
-  height:290px;
+  height: 290px;
 }
-#body{
+
+#body {
   background-color: #e9ecef
 }
-.card{
+
+.card {
   background-color: #ec7063
 }
-button{
+
+button {
   color: #ec7063
 }
-#h2{
+
+#h2 {
   text-align: center;
 }
