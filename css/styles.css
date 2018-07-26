@@ -4,6 +4,9 @@
 #row1{
   margin-top:5%;
 }
+#Q1{
+  display:none;
+}
 
 #Q2{
 display: none;
@@ -21,4 +24,26 @@ display: none;
 }
 #Q6{
   display: none;
+}
+
+
+#h1{
+  text-align: center;
+  font-size: 80px;
+}
+.jumbotron{
+  background-image: url('../images/sciences/jumbotron.jpg');
+  height:290px;
+}
+#body{
+  background-color: #e9ecef
+}
+.card{
+  background-color: #ec7063
+}
+button{
+  color: #ec7063
+}
+#h2{
+  text-align: center;
 }
