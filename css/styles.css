@@ -24,12 +24,19 @@ display: none;
   display: none;
 }
 
+/* engineering css */
+
 .engineering{
   background-image: url("../images/engineering/diego-ph-249471-unsplash.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 400px;
   text-align: center;
+  padding-top: 5%;
+}
+
+.indoor{
+  float: right;
 }
 
 .workspace{
@@ -69,11 +76,36 @@ background-color: #e9ecef;
 #head1{
   padding-top: 30px;
   margin-left: 30px;
+  font-family: 'Waiting for the Sunrise', cursive;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
 }
-
+.word{
+  font-size: 30px;
+}
+.title{
+  font-family: 'Waiting for the Sunrise', cursive;
+  text-align: center;
+  color: #ec7063;
+}
+.dope{
+  font-family: 'Waiting for the Sunrise', cursive;
+  text-align: center;
+  color: #ec7063;
+}
 #head2{
   padding-top: 30px;
-  margin-left: 30px;
+  margin-left: 34%;
+  color: #ec7063;
+  font-size: 30px;
+
+}
+#head4{
+  padding-top: 30px;
+  margin-left: 15%;
+  color: #ec7063;
+  font-size: 30px;
 }
 
 #head3{
@@ -85,6 +117,10 @@ background-color: #e9ecef;
   display: none;
   padding: 40px;
 }
+
+/* end of engineering css */
+
+/* landingpage css */
 
 .navbar {
   overflow: hidden;
@@ -229,7 +265,7 @@ h3 {
 
 #cont5 {
   padding-top: 5%;
-  height: 630px;
+  height: 700px;
 
 }
 #row2{
@@ -288,7 +324,9 @@ p {
 li {
   font-family: 'Abel', sans-serif;
   font-size: 20px;
+
 }
+
 
 h3 {
   font-family: 'Waiting for the Sunrise', cursive;
@@ -362,21 +400,42 @@ background-color: black;
 #col10{
   margin-top: 2%;
 }
+
+/* end of landingpage css */
+/* business css */
 .ttc{
   color: black;
 }
 .ttc:hover{
   color: black;
 }
-.bizna{
-  background-image: url('../images/business8.jpg');
-  background-size: cover;
+#bizna{
+  background-color: #ec7063;
   background-repeat: no-repeat;
   background-position: center;
   height: 200px;
-  font-family: 'Lobster', cursive;
+
   text-align: center;
-  color: #e9ecef;
+  padding-top: 20px;
+
+}
+#cwi{
+  background-color: #393939;
+  height: 100px;
+  text-align: center;
+  padding-top: 30px;
+}
+.cwi{
+  font-size: 30px;
+}
+#descript{
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+  background-image: url("../images/business/bizz2.jpeg");
+  padding-top: 17%;
 }
 #business{
   background-color:#e9ecef;
@@ -391,17 +450,38 @@ background-color: black;
 #somo2{
   text-align: center;
 }
+#q1{
+  padding-top: 10%;
+  text-align: center;
+  padding-right: 4.5%;
+}
 #q2 {
   display: none;
+  padding-top: 7%;
+  text-align: center;
+  padding-right: 10%;
+  padding-bottom: 4%;
 }
 #q3{
   display: none;
+  padding-top: 7%;
+  text-align: center;
+  padding-bottom: 4%;
+  padding-left: 2%;
 }
 #q4{
   display: none;
+  padding-top: 7%;
+  text-align: center;
+  padding-bottom: 4%;
+
 }
 #q5{
   display: none;
+  padding-top: 7%;
+  text-align: center;
+  padding-bottom: 4%;
+
 }
 #a1{
   background-color: #ec7063;
@@ -429,6 +509,7 @@ background-color: black;
 }
 #problem{
   background-color: #ec7063;
+
 }
 #manage{
   background-color: #ec7063;
@@ -442,4 +523,7 @@ background-color: black;
 .one{
   height: 150px;
   width: 100%;
+}
+#somo2{
+  padding-top: 5%;
 }
