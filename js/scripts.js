@@ -1,4 +1,6 @@
 
+
+
 $(document).ready(function() {
   $('a#A1').click(function() {
     $('#Q2').show();
@@ -282,5 +284,6 @@ $(document).ready(function() {
     var li='<li>'+'<strong>'+'Entrepreneurship and Small Business Management'+'</strong>'+'-this course provides students with necessary skills that can enable them to respond to the need for effective management of public and private enterprises.'+'<a href="https://study.com/articles/Bachelor_of_Science_BS_Small_Business_and_Entrepreneurship_Degree_Overview.html">'+'more information'+'</a>'+'</li>'
     $('#somo1').append(li);
   })
+
 
 })
