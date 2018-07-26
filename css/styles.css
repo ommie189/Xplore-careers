@@ -1,3 +1,4 @@
+
 .heading{
   border-style: groove;
   border-color: #B0B0B0;
@@ -102,4 +103,449 @@ margin-left: 455px;
 }
 .es{
   font-size: 35px;
+}
+
+#cardd{
+  margin-left:  25%;
+}
+#row1{
+  margin-top:5%;
+}
+
+#Q2{
+display: none;
+}
+#Q3{
+display: none;
+}
+
+
+#Q4{
+display: none;
+}
+#Q5{
+  display: none
+}
+#Q6{
+  display: none;
+}
+
+.engineering{
+  background-image: url("../images/engineering/diego-ph-249471-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  text-align: center;
+}
+
+.workspace{
+background-color: #e9ecef;
+}
+
+.txt{
+  justify-content: center;
+  margin: 30px;
+}
+
+.clickableimg{
+  margin: 30px;
+  height: 400px;
+  width: 500px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.clickableimg:hover{
+  color: blue;
+  opacity: 0.7;
+  text-decoration: underline;
+  transform: scale(1.09);
+}
+
+#factory-office{
+  background-color: #e9e9ecef;
+  display: none;
+}
+
+.fieldwork{
+  display: none;
+  background-color: #e9e9ecef;
+}
+
+#head1{
+  padding-top: 30px;
+  margin-left: 30px;
+}
+
+#head2{
+  padding-top: 30px;
+  margin-left: 30px;
+}
+
+#head3{
+  padding-top: 30px;
+}
+
+.answer{
+  background-color: #e9e9ecef;
+  display: none;
+  padding: 40px;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #ec7063;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  border-right: 1px solid #bbb;
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+
+.navbar a:hover {
+  text-decoration: none;
+  background-size: cover;
+  color: blue;
+}
+
+h1 {
+  text-align: center;
+}
+
+#cont1 {
+  height: 650px;
+  background-color: grey;
+  padding-top: 28%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url("../images/landingpage/c22.jpeg");
+}
+
+
+
+.active {
+  font-family: 'Orbitron', sans-serif;
+}
+
+h1 {
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 70px;
+  color: black;
+}
+
+p {
+  text-align: center;
+  color: #6E8C6D;
+  font-family: 'Loved by the King', cursive;
+  font-size: 30px;
+  margin-top: 7%;
+}
+
+#cont2 {
+  height: 280px;
+  background-color: #8DA2AF;
+  padding-top: 5%;
+}
+
+h2 {
+  font-family: 'Waiting for the Sunrise', cursive;
+  text-align: center;
+  font-size: 25px;
+}
+
+
+.eh {
+  font-family: 'Waiting for the Sunrise', cursive;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+#cont3 {
+  height: 550px;
+  padding-top: 9%;
+  background-color: #718C6E;
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url("../images/landingpage/education2.jpg");
+}
+
+h3 {
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+.btn {
+  margin-left: 40%;
+  margin-top: 2%;
+}
+
+#cont4 {
+  height: 550px;
+  padding-top: 14%;
+  background-color: #C1A87E;
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-image: url("../images/landingpage/pexel.jpg");
+  text-align: center;
+}
+
+.btn2 {
+  margin-left: 1%;
+  margin-top: 6%;
+  margin-bottom: 2%;
+}
+
+#discipline {
+  padding: 5%;
+  text-align: centre;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+  display: none;
+  height: 500px;
+}
+
+#form1 {
+  padding-left: 38%;
+  padding-top: 0.5%;
+}
+
+#email {
+  border: 1px solid;
+  width: 250px;
+}
+
+#label1 {
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#cont5 {
+  padding-top: 5%;
+  height: 630px;
+
+}
+#row2{
+  margin-top: 2%;
+padding-left: 35%;
+
+}
+.ul2{
+  padding-left: 30%;
+}
+.ul2 a {
+text-decoration: none;
+color: black;
+
+}
+.ul2 a:hover{
+  color: blue;
+}
+
+p {
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+.card-deck {
+  margin-left: 9%;
+}
+
+
+
+ #body1 {
+  background-color: #e9ecef;
+}
+
+.jumbotron {
+  background-color: #ec7063;
+  margin-bottom: 0;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 90%;
+}
+
+#land {
+  height: 450px;
+}
+
+#doct {
+  height: 450px;
+}
+
+#hand {
+  height: 450px;
+}
+
+li {
+  font-family: 'Abel', sans-serif;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: 'Waiting for the Sunrise', cursive;
+}
+
+.card-body {
+  background-color: #ec7063;
+  height:100px;
+}
+.card-img-top{
+  height: 170px;
+}
+
+h4 {
+  margin-top: 5%;
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-size: 30px;
+}
+
+#cont8 {
+  /* background-image: url("../images/landingpage/book.jpg");
+  background-repeat: no-repeat; */
+  background-position: center;
+  background-size: 100%;
+  background-color: #e9ecef;
+}
+
+#cont9 {
+  background-color: #393939;
+  height: 100px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+h5 {
+  font-family: 'Annie Use Your Telescope', cursive;
+  color: white;
+}
+
+h6 {
+  color: white;
+}
+
+#cont10 {
+  background-color: #e9ecef;
+}
+
+#cont11 {
+  background-color: #393939;
+  height: 100px;
+  text-align: center;
+  padding-top: 30px;
+}
+#cont12{
+  background-color:#e9ecef;
+  text-align: center;
+  padding-top: 2%;
+
+}
+#cont13{
+height: 100px;
+padding-top: 2%;
+background-color: black;
+}
+.eh2{
+  color: white;
+}
+#col9{
+  margin-bottom: 2%;
+}
+#col10{
+  margin-top: 2%;
+}
+.ttc{
+  color: black;
+}
+.ttc:hover{
+  color: black;
+}
+.bizna{
+  background-image: url('../images/business8.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 200px;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: #e9ecef;
+}
+#business{
+  background-color:#e9ecef;
+}
+#quest{
+  display: none;
+  background-color:#e9ecef ;
+}
+#somo{
+  display: none;
+}
+#somo2{
+  text-align: center;
+}
+#q2 {
+  display: none;
+}
+#q3{
+  display: none;
+}
+#q4{
+  display: none;
+}
+#q5{
+  display: none;
+}
+#a1{
+  background-color: #ec7063;
+}
+#a2{
+  background-color: #ec7063;
+}
+#b1{
+  background-color: #ec7063;
+}
+#b2{
+  background-color: #ec7063;
+}
+#b3{
+  background-color: #ec7063;
+}
+#b4{
+  background-color: #ec7063;
+}
+#c1{
+  background-color: #ec7063;
+}
+#c2{
+  background-color: #ec7063;
+}
+#problem{
+  background-color: #ec7063;
+}
+#manage{
+  background-color: #ec7063;
+}
+#math{
+  background-color: #ec7063;
+}
+#lingo{
+  background-color: #ec7063;
+}
+.one{
+  height: 150px;
+  width: 100%;
 }
