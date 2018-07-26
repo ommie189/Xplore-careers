@@ -1,6 +1,6 @@
 $(document).ready(function(){
   $('img#fail').click(function(){
-    $('#four').text('not')
+    $('span#four').text('not');
     console.log('not');
   })
 })
