@@ -12,12 +12,10 @@ This is a quiz application that helps the youth find job placements in society i
 * Arts
 * Engineering
 
-Setup/Installation Requirements
-Go to the internet
-Put this link https://jimmimuriuki.github.io/pig-dice/ in your search homepage .this link will direct you to the page online.
-Roll the die and try to obtain as many points as possible to win the game!.Remember the first player to reach 100 points wins the game
-Known Bugs
-There were known bugs or obstacles that were not manageable. All obstacles were appropriatel dealt to make the project a success
+
+#### Social Media
+* https://www.linkedin.com/in/xplore-careers-00072a169/
+* https://www.instagram.com/xplorecareers/
 
 ### Technologies Used
 Technologies used in this project include:
@@ -27,9 +25,9 @@ Technologies used in this project include:
 * Bootstrap
 * Css
 
-Installed packages on atom such as beutify are also necessary for proper code presentation.The code was written on atom and the project was launched online using git.}
+Installed packages on atom such as beutify are also necessary for proper code presentation.The code was written on atom and the project was launched online using git.
 
-Deployment
+#### Deployment
 The project was deployed through the following systematic steps:
 
 Creating a gh-pages branch on the local terminal
@@ -42,6 +40,7 @@ Support and contact details
 {conatct details emailaddress:jimmimuriuki@gmail.com phone number:+254701561424.}
 
 Acknowledgments
+
 I would like to thank my Team: Mohamed Abdullahi, Jimmi Kariuki, Daniel Mutai and Jose Maker.
 
 License
