@@ -37,7 +37,9 @@ logging in to my git hub account and going to this project repository.
 Navigating downwards in the settings bar and copying the link provided.
 Pasting the copied link on new tab on my web browser.
 Support and contact details
-{conatct details emailaddress:jimmimuriuki@gmail.com phone number:+254701561424.}
+
+* Contact details email address: jimmimuriuki@gmail.com 
+* Phone number:+254701561424.
 
 Acknowledgments
 
