@@ -21,10 +21,11 @@ There were known bugs or obstacles that were not manageable. All obstacles were 
 
 ### Technologies Used
 Technologies used in this project include:
-* html
+* Html
 * Javascript
-* atom
+* Atom
 * Bootstrap
+* Css
 
 Installed packages on atom such as beutify are also necessary for proper code presentation.The code was written on atom and the project was launched online using git.}
 
