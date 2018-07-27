@@ -11,6 +11,7 @@ This is a career counselling application that helps the youth find career course
 * Arts
 * Engineering
 This gives the user a narrower scope of what courses to look into thus achieving convenience.
+check it out https://jimmimuriuki.github.io/Explore-careers/
 
 
 #### Social Media
