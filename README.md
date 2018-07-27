@@ -40,7 +40,7 @@ The project was deployed through the following systematic steps:
 * Support and contact details
 
 ## Contact details 
-* email address: 
+Email address: 
 * Naomi Mukuhi - naomikuhi189@gmail.com
 * Jimmi Muriuki -jimmimuriuki@gmail.com
 * Joseph Maker - 1joelmaker@gmail.com
